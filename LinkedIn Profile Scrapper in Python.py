@@ -17,7 +17,7 @@ elementID.send_keys(password)
 elementID.submit()
 
 #getting profile link
-link = 'https://www.linkedin.com/in/ernestmistica/'
+link = 'https://www.linkedin.com/in/chokri-douma/'
 browser.get(link)
 #extraire les informations
 src = browser.page_source
